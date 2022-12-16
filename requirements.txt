@@ -7,4 +7,4 @@ streamlit_webrtc==0.44.0
 torch==1.13.0
 yolov5==6.2.3
 opencv-python-headless==4.6.0.66
-XlsxWriter==3.0.8
+XlsxWriter==3.0.3
